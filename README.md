@@ -80,6 +80,6 @@ The final reports, knit from the R Markdown file, can be found here:
 
 My name is Asegid Ayele, and I am a data analyst with a passion for using data to solve business problems. This project is a demonstration of my skills in data cleaning, exploratory analysis, and communicating data-driven recommendations.
 
-* **LinkedIn:** [Link to your LinkedIn Profile]
+* **LinkedIn:** [https://www.linkedin.com/in/asegid-ayele-74526a1aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 * **Email:** [abem646@gmail.com]
 
