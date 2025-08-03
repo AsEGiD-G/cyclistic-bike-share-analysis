@@ -1,7 +1,3 @@
-# Project Title: Cyclistic Bike-Share Analysis: Converting Casual Riders to Members
-
-This project is a case study for the Google Data Analytics Certificate. It follows the data analysis process (Ask, Prepare, Process, Analyze, Share, Act) to answer a key business question and provide actionable recommendations.
-
 ## 1. Problem Statement & Business Task
 
 **Business Task:**
@@ -47,12 +43,16 @@ The analysis was performed using R, with the following key libraries: `tidyverse
 
 Here are some of the key visualizations that support the findings.
 
+### Ride Length Distribution
+![Ride Length Distribution](visualizations/ride_length_distribution.png)
+_This histogram shows the distribution of ride lengths for both casual riders and members._
+
 ### Average Ride Length by Day of Week
 ![Average Ride Length by Day of Week](visualizations/avg_ride_length_by_day.png)
 _This chart shows that casual riders consistently have longer average ride times than members, especially on weekends._
 
 ### Total Rides by Day of Week
-![Total Rides by Day of Week](visualizations/total_rides_by_day.png)
+![Total Rides by Day of Week](visualizations/total_rides_day_of_week.png)
 _This visualization highlights the commuter pattern for members (peak on weekdays) and the leisure pattern for casual riders (peak on weekends)._
 
 ## 6. Recommendations
@@ -78,7 +78,8 @@ The final reports, knit from the R Markdown file, can be found here:
 
 ## 8. About Me
 
-My name is [Your Name], and I am a data analyst with a passion for using data to solve business problems. This project is a demonstration of my skills in data cleaning, exploratory analysis, and communicating data-driven recommendations.
+My name is Asegid Ayele, and I am a data analyst with a passion for using data to solve business problems. This project is a demonstration of my skills in data cleaning, exploratory analysis, and communicating data-driven recommendations.
 
 * **LinkedIn:** [Link to your LinkedIn Profile]
-* **Email:** [asegid.ayele@outlook.com]
+* **Email:** [abem646@gmail.com]
+
